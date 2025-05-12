@@ -9,5 +9,9 @@
 - [My Flappy Brid 🐤](https://github.com/JiazhenLuo/my_Python_repo/tree/main/myPythongame)
 - [My Movie Poster Wall 🎞️](https://github.com/JiazhenLuo/my_Python_repo/tree/main/myMovieList)
 - [scrape metrograph 🛰️](https://github.com/JiazhenLuo/my_Python_repo/tree/main/scrapemetroraph)
+- [My Movie List 🍿](https://github.com/JiazhenLuo/my_Python_repo/tree/main/myMovieList)
+- [LLMs 📀](https://github.com/JiazhenLuo/my_Python_repo/tree/main/LLMs)
+- [MyGui 📱](https://github.com/JiazhenLuo/my_Python_repo/tree/main/MyGUI)
+- [EmojiWebcam 🌎](https://github.com/JiazhenLuo/my_Python_repo/tree/main/EmojiWebcam)
 
 ![meme](codingMeme.png)
